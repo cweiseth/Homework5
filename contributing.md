@@ -1,1 +1,3 @@
 CONTRIBUTING
+
+Caleb Weiseth
